@@ -1,6 +1,7 @@
 🚀 AI Resume Analyzer (Streamlit + Gemini API)
-📌 Overview
 
+
+📌 Overview
 This project is an AI-powered Resume Analyzer that compares a candidate’s resume with a job description and provides:
 
 ✅ Match Score (out of 100)
@@ -67,6 +68,3 @@ If you found this useful or have suggestions, feel free to connect on LinkedIn!
 
 ⭐ If you like this project
 Give it a star ⭐ on GitHub — it helps!
-GEMINI_API_KEY=your_api_key_here
-▶️ Run the App
-python -m streamlit run app.py
